@@ -1,0 +1,27 @@
+.Search input{
+   
+    width: 93%;
+    border:none;
+    outline: none;
+    margin-left: 20px;
+    height: 45px;
+}
+.Search{
+    display:flex;
+    flex-direction:row;
+    width: 98%;
+    height: 48px;
+    border-radius: 30px;
+    border: 1px solid #D4DEFE;
+    
+    background-color: #ffffff;
+    margin-bottom: 30px;
+
+}
+.Search button{
+    background-color: #ffffff;
+    border: none;
+    outline: none;
+    float: right;
+ 
+}
